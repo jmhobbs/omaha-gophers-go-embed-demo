@@ -1,0 +1,13 @@
+Bryan Rockwood will be talking about "Using Go with Google Cloud Functions To Manipulate Weather Radar Data"
+John Hobbs will be briefly talking about GopherJS and Joy.
+
+Thanks again to Flywheel for the space and for providing drinks and pizza!
+🍕
+
+Bryan Rockwood - https://twitter.com/BRock97
+John Hobbs - https://twitter.com/jmhobbs
+Google Cloud Functions - https://cloud.google.com/functions/
+GopherJS - https://github.com/gopherjs/gopherjs
+Joy - https://mat.tm/joy/
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

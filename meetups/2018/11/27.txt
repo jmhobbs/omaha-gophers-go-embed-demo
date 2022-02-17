@@ -1,0 +1,12 @@
+Join us for the last meetup of 2018!
+
+Matt Steele will be presenting his newbie Go experience building a Twitter bot on AWS Lambda.
+
+John Hobbs will be presenting on....something!
+
+Thanks again to Flywheel for the space!
+
+Matt Steele - https://twitter.com/mattdsteele
+John Hobbs - https://twitter.com/jmhobbs
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

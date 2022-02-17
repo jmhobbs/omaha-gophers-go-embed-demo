@@ -1,0 +1,12 @@
+We're back! It's been a long time, but we're hoping to see you all soon.
+
+This will be a virtual meeting on Zoom and we will have two short presentations this month.
+
+Go Generics - A General Introduction - Bryan Rockwood
+Using go:embed to ship your assets - John Hobbs
+
+We are hoping to start meeting more this year, hopefully in person eventually. If you have a topic you'd be interested in giving a presentation, please let us know!
+
+Bryan Rockwood - https://twitter.com/BRock97
+John Hobbs - https://twitter.com/jmhobbs
+Omaha Go Twitter - https://twitter.com/omaha_go

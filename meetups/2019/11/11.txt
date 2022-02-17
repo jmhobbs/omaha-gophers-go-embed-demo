@@ -1,0 +1,17 @@
+10 years of Go!
+
+Come hang out have pizza and cake with us!
+
+We will raffle off some swag and a license for a year of GoLand, courtesy of JetBriains!
+
+Bryan Rockwood will be presenting "Yægi: Go Scripting Zen"
+John Hobbs will be presenting "Wrapping Errors in Go 1.13"
+
+As a reminder, this meetup is both in a new location, and on a Monday instead of Tuesday. So heads up!
+
+GoLand - https://www.jetbrains.com/go/
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go
+
+Confetti background photo by Jason Leung on Unsplash
+https://unsplash.com/@ninjason

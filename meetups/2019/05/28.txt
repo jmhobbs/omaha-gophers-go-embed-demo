@@ -1,0 +1,10 @@
+April showers bring May Gophers! Come have some pizza and talk Go with us again this month.
+
+Matt Ehlinger will present, "Creating a realtime chat app with Go"
+Bryan Rockwood will be talking about using tview to create terminal UIs
+
+Thanks again to Flywheel for the space, food and drinks!
+
+tview - https://github.com/rivo/tview
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

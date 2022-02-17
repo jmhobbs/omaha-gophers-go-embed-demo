@@ -1,0 +1,12 @@
+Ryan Hagenson will be teaching us about property testing with gopter.
+
+Nick Meyer will be giving a talk about cgo usage.
+
+We will probably also chat about what came out of Gophercon this year. If you have something you'd like to talk about, let us know!
+
+Thanks again to Flywheel for the space!
+
+Ryan Hagenson - https://twitter.com/rahagenson
+Gopter - https://github.com/leanovate/gopter
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

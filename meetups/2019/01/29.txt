@@ -1,0 +1,11 @@
+Join us for the first meetup of 2019!
+
+Ben Stevinson will be presenting on measuring and increasing performance of a Go applications with pprof (and other tools?)
+
+We will also be comparing notes from the Advent of Code 2018 and looking at different solutions. It's not too late to participate, just go to https://adventofcode.com/2018 and try some problems!
+
+Thanks again to Flywheel for the space!
+
+Ben Stevinson - https://twitter.com/benstevinson
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

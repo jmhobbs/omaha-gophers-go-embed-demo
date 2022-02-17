@@ -1,0 +1,18 @@
+Hey Gophers! It's been a while since we've been together!
+
+Come join us for an evening of Go! Ideally we will do some lightning talks, so if you have something short you'd like to present, send it on over!
+
+Matt Steele will be discussing how to build Go for smaller Docker images.
+
+John Hobbs will talk about using the Periph.io project.
+
+We will also be raffling off a GoLand license, courtesy of an excellent JetBrains sponsorship. You can't win unless you attend though!
+
+Thanks again to Flywheel for the space, food and drinks!
+
+GoLand - https://www.jetbrains.com/go/
+Matt Steele - https://twitter.com/mattdsteele
+John Hobbs - https://twitter.com/jmhobbs
+Periph.io - https://periph.io
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

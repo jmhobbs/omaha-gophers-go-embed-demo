@@ -1,0 +1,14 @@
+Happy March! Come have some pizza and talk Go with us again this month.
+
+Matt Steele will be returning with a talk about using the newly released Go support on GCP's serverless platform.
+
+John Hobbs will be talking about writing parsers with goyacc
+
+Thanks again to Flywheel for the space, food and drinks!
+
+Matt Steele - https://twitter.com/mattdsteele
+John Hobbs - https://twitter.com/jmhobbs
+GCP Cloud Functions - https://cloud.google.com/functions/
+goyacc - https://godoc.org/modernc.org/goyacc
+Flywheel - https://getflywheel.com
+Omaha Go Twitter - https://twitter.com/omaha_go

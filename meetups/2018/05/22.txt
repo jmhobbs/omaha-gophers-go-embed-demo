@@ -1,0 +1,12 @@
+
+Ben Stevinson will be continuing his traffic camera project from the January meeting with "Creating traffic camera time lapses with Go".
+
+Will Riley will be presenting on using MIDI with Go.
+
+If you have a talk you want to give, short or long, please let me know!
+
+Thanks again to Flywheel for the space!
+
+Ben Stevinson - https://twitter.com/benstevinson
+Will Riley - https://twitter.com/splitinfinities
+Flywheel - https://getflywheel.com
